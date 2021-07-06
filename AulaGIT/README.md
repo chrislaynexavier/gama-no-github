@@ -1,1 +1,0 @@
-Adquirindo habilidades com o Git através do Hiring Coders. Estou gostando bastante!
